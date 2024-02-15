@@ -30,6 +30,13 @@ body{
     font-size: 21px;
     font-weight: 500;
     padding: 16px 15px;
+    display: flex;
+    align-items: center;
     border-bottom: 1px solid #bfbfbf;
 }
 
+.header i{
+    cursor:alias pointer;
+    font-size: 30px;
+    margin-right: 8px;
+}
