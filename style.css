@@ -19,3 +19,17 @@ body{
 
 }
 
+.wrapper {
+    width: 400px;
+    border-radius: 7px;
+    background: #fff;
+}
+
+.wrapper header{
+    color: #43AFFc;
+    font-size: 21px;
+    font-weight: 500;
+    padding: 16px 15px;
+    border-bottom: 1px solid #bfbfbf;
+}
+
